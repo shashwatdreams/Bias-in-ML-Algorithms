@@ -1,0 +1,53 @@
+agency_code:
+9 - CFPB
+7 - HUD
+5 - NCUA
+3 - FDIC
+2 - FRS
+1 - OCC
+
+loan_type:
+1 - Conventional
+2 - FHA-insured
+3 - VA-guaranteed
+4 - FSA/RHS-guaranteed
+
+property_type:
+1 - One-to-four family dwelling (other than manufactured housing) (all)
+
+loan_purpose:
+1 - Home pruchase
+2 - Refinancing
+
+owner_occupancy:
+1 - Owner-occupied as a principal dwelling
+
+action_taken:
+2 - Application approved but not accepted
+3 - Application denied by financial institution
+
+applicant_race:
+1 - American Indian or Alaska Native
+2 - Asian
+3 - Black or African American
+4 - Native Hawaiian or Other Pacific Islander
+5 - White
+
+applicant_ethnicity:
+1 - Hispanic or Latino
+2 - Not Hispanic or Latino
+
+applicant_sex:
+1 - Male
+2 - Female
+
+hoepa_status:
+2 - Not a HOEPA Loan
+
+lien_status:
+1 - Secured by a first lien
+2 - Secured by a subordinate lien
+
+ALL are one-to-four family dwelling _ none are HOPEA.
+
+
